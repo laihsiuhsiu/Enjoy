@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+header  {
+	height: 76px;
+	background-color: #1D1F22;
+}
+
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+nav {
+	float: right;
+}
+article {
+	height: auto;
+}
+
+footer {
+	height: 75px;
+	background-color: #CFCFCF;
+}
+#logo {
+}
+.joylai {
+	color: #FFFFFF;
+	font-size: 50px;
+	width: 370px;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 400;
+	float: left;
+}
+tr {
+	color: #FFFFFF;
+}
+
+#banner {
+	height: 480px;
+	background-color: #919191;
+	background-repeat: no-repeat;
+}
+#welcome {
+	width: 500px;
+}
+.p {
+	color: #070707;
+	background-color: #FFFFFF;
+}

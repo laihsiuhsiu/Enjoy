@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+.cwfont01{
+	font-family: 'cwTeXHei', sans-serif;
+	padding-left: 15px;
+}
+.text {
+	line-height: 2.5em;
+	text-transform: none;
+	font-variant: normal;
+	font-style: normal;
+}
+
+#header {
+	width: 100%;
+	height: 80px;
+	background-repeat: repeat-x;
+	font-family: fredericka-the-great;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+}
+#left {
+	width: 330px;
+	float: left;
+	padding-left: 0px;
+	font-size: 24px;
+	margin-left: 300px;
+	margin-top: 70px;
+	border-right-width: thin;
+	border-right-style: dotted;
+	border-right-color: #666;
+	margin-right: 0px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	margin-bottom: 30px;
+	height: auto;
+}
+.template {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.a {
+	color: #E75AA0;
+}
+.a:hover {
+	color: #B5075E;
+}
+.a:visited {
+	color: #5E0632;
+}
+#rright {
+	float: left;
+	margin-top: 70px;
+	border-left: thin dotted #666666;
+	margin-left: 50px;
+	padding-left: 50px;
+	height: auto;
+}
+
+
+
+
+
+#right {
+	width: 600px;
+	text-align: left;
+	float: left;
+	margin-left: 50px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+	right: auto;
+	left: auto;
+	border-left-width: thin;
+	border-left-style: none;
+	border-left-color: #F3175B;
+	padding-top: 0px;
+	margin-top: 70px;
+	padding-bottom: 0px;
+	margin-bottom: 50px;
+	height: auto;
+}
+
+
+#all {
+	width: 100%;
+	height: 100%;
+	background-repeat: repeat;
+}
+#content {
+	width: 100%;
+	background-image: url(image/content_bg.gif);
+	background-repeat: repeat-x;
+	float: left;
+	height: auto;
+}
+.subtitle {
+	font-size: 24px;
+	text-align: left;
+	font-weight: normal;
+	word-spacing: normal;
+	padding-top: 0px;
+	border-left-width: thick;
+	border-left-style: solid;
+	border-left-color: #F3175B;
+	font-variant: normal;
+	line-height: normal;
+	color: #333;
+	margin-top: 0px;
+	margin-left: 0px;
+	padding-left: 3px;
+}
+
+
+
+#footer {
+	clear: both;
+	width: 100%;
+	height: 65px;
+	background-image: url(image/footer_bg.gif);
+	background-repeat: repeat-x;
+	text-align: center;
+	font-size: 24px;
+	word-spacing: normal;
+	vertical-align: baseline;
+	font-family: "Comic Sans MS", cursive;
+	padding-top: 5px;
+}
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.name {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-weight: bold;
+	padding-left: 15px;
+}
